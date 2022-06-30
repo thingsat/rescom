@@ -2,6 +2,8 @@
 
 https://rsd-ecole.cnrs.fr/2022/
 
+![QRCode](./qrcode.png)
+
 ## TLE and Celestrak
 * [Celestrak](https://celestrak.org/) (please donate)
 * [Search ISS, GPS, STORK-1, NORBI ... on Celestrak](https://celestrak.org/satcat/search.php)
