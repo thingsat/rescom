@@ -39,6 +39,6 @@ https://rsd-ecole.cnrs.fr/2022/
 ### Thingsat
 * [High altitude LoRa Benchmarking](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/tree/master/balloons)
 * [Cubesat mission](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/tree/master/cubesat_mission)
-** [Messages format](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/tree/master/cubesat_mission/messages)
-** [Mission scenarii](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/blob/master/cubesat_mission/mission_scenario/README.md)
+  * [Messages format](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/tree/master/cubesat_mission/messages)
+  * [Mission scenarii](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/blob/master/cubesat_mission/mission_scenario/README.md)
 
